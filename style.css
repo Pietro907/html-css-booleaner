@@ -1,0 +1,68 @@
+#topimage {
+    width: 200px;
+}
+
+header {
+    background-color: rgb(0, 132, 255);
+    background-image: url(./img/pattern.png);
+    background-size: 600px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.colortext {
+    color:rgba(0, 204, 255, 0.382);
+}
+
+h4 {
+    color: grey;
+}
+
+h6 {
+    margin-top: 0;
+}
+
+#monitor {
+    background-image: url(./img/monitor.jpg);
+    color: white;
+    height: 200px;
+    width: 300px;
+}
+
+#graph {
+    background-image: url(./img/graph.jpg);
+    color: white;
+    height: 200px;
+    width: 300px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+thead {
+    background-color: rgb(0, 132, 255);
+}
+
+tr {
+    padding: 0;
+}
+
+.heavenly {
+    background-color: rgba(0, 204, 255, 0.382);
+}
+
+table, td, th, tr {
+    border-spacing: 0;
+    text-align: start;
+}
+
+table {
+    width: 100%;
+}
+
