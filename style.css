@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #topimage {
     width: 200px;
 }
@@ -10,16 +16,25 @@ header {
     padding-bottom: 20px;
 }
 
+main, ul {
+    margin: 0 1rem;
+}
+
 .colortext {
     color:rgba(0, 204, 255, 0.382);
 }
 
 h4 {
     color: grey;
+    margin-top: 2rem;
 }
 
 h6 {
     margin-top: 0;
+}
+
+#under_table {
+    margin-top: 2rem;
 }
 
 #monitor {
@@ -27,6 +42,9 @@ h6 {
     color: white;
     height: 200px;
     width: 300px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    margin-top: 1rem;
 }
 
 #graph {
@@ -34,6 +52,10 @@ h6 {
     color: white;
     height: 200px;
     width: 300px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }
 
 .highlight {
@@ -41,8 +63,8 @@ h6 {
 }
 
 ul {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 thead {
@@ -65,4 +87,3 @@ table, td, th, tr {
 table {
     width: 100%;
 }
-
