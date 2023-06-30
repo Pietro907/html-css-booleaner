@@ -26,11 +26,11 @@ main, ul {
 
 h4 {
     color: grey;
-    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 h6 {
-    margin-top: 0;
+    margin-bottom: 2rem;
 }
 
 #under_table {
